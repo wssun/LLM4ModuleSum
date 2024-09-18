@@ -74,7 +74,7 @@ def remove_comments_and_docstrings(source, lang):
         return '\n'.join(temp)
 
 def main():
-    prompt5 = """Please generate a concise comment in an imperative mood to describe the functionality of the class code based on the summaries provided above."""
+    prompt5 = """Please generate a comment in an imperative mood to describe the functionality of the class code based on the summaries provided above."""
     parser = argparse.ArgumentParser()
     parser.add_argument("--data_file", default="", type=str)
     parser.add_argument("--language", default="java", type=str)
