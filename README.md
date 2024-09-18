@@ -15,7 +15,6 @@ The goal of this project is to explore different approaches to generating commen
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Functions and Scripts](#functions-and-scripts)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
